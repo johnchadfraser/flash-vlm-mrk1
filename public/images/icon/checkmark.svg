@@ -1,0 +1,24 @@
+<svg
+              id="checkmark"
+              data-name="checkmark"
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 52 52"
+              height="16"
+              width="16"
+            >
+              <path
+                id="circle"
+                data-name="circle"
+                d="M26,0A26,26,0,1,1,0,26,26,26,0,0,1,26,0Z"
+                fill="#fbbe4a"
+              />
+              <path
+                id="check"
+                data-name="check"
+                d="M1439.259,1389l8.358,8.358,19.028-19.028"
+                transform="translate(-1427 -1362)"
+                fill="none"
+                stroke="#fff"
+                stroke-width="7"
+              /></svg
+            >
